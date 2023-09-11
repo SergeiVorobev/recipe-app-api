@@ -99,6 +99,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+ALLOWED_HOSTS = ["0.0.0.0"]
 
 # Internationalization
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
