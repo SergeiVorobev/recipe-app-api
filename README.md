@@ -1,2 +1,2 @@
 # recipe-app-api
-The application is constructed utilizing a REST API architecture implemented with Python, Django REST Framework, and Docker. The development process follows Test Driven Development (TDD) principles.
+The application is built using a REST API architecture, employing Python, Django REST Framework, and Docker. The development adheres to Test Driven Development (TDD) principles.
