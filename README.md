@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Recipe App API is a web application constructed using a RESTful API architecture. Its purpose is to manage recipes and associated information. Through API endpoints, users have the ability to create, view, update, and delete recipes.
+The Recipe App API is a web-based platform built upon a RESTful API architecture. It serves as a comprehensive solution for managing recipes and related data. Leveraging its API endpoints, users can seamlessly perform operations such as creating, viewing, updating, and deleting recipes
 
 ## Technologies Used
 
